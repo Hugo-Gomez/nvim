@@ -1,3 +1,4 @@
+vim.g.mapleader = " "
 vim.keymap.set("n", "<leader>ez", vim.cmd.Ex)
 
 -- open a terminal
